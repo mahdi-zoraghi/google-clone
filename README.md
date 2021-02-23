@@ -1,12 +1,12 @@
-# Deploy To : [here](https://twitter-clone-8173a.web.app/)
+# Deploy To : [here](https://clone-bce46.web.app/)
  
-<img src="https://raw.githubusercontent.com/mahdi-zoraghi/twitter-clone/master/twitter-clone-screen.jpg" />
+<img src="https://raw.githubusercontent.com/mahdi-zoraghi/google-clone/master/google-clone-screen.jpg" />
 
 # Technology to use :
 
 - React
 - React-router-dom
 - material-ui
-- firebase (hosting, firestore)
-- Sass
+- firebase (hosting)
+- Google Custom Search App
 - etc...
